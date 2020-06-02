@@ -2,7 +2,6 @@ Autor: Adam Tomko
 Nazov: Nazov netušim
 Datum: 05/26/2020
 ----
-<<<<<<< HEAD
 Miliónový majetok, ktorého sa Ladislav Bašternák zbavil pred nástupom do väzenia, ešte nie je stratený. 
 Pôvodne mal prepadnúť štátu.
 Slovensko si ho teraz vymáha súdnou cestou a žaluje nových majiteľov.
@@ -10,4 +9,9 @@ Slovensko si ho teraz vymáha súdnou cestou a žaluje nových majiteľov.
 Boj o zdanlivo prehratý majetok, ktorý mal v konkurze odsúdeného daňového podvodníka Ladislava Bašternáka prepadnúť štátu, ožíva.
 Len tesne pred oficiálnou lehotou podala Slovenská republika takzvanú odporovaciu žalobu.
 Slovenska republika je zastúpená Okresným úradom v Bratislave.
+----
+Mily citatelia 
+na toto sme bohuzial 
+nemali cas.
+
 
